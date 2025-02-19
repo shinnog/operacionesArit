@@ -5,4 +5,5 @@ Integrantes:
 - Juan Diego Espinoza López
 - Ximena Estefania Ibarra Martínez
 - Christian Darío Galaviz Flores
+- Juan Carlos Guerrero Dávila
 
