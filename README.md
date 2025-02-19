@@ -1,0 +1,2 @@
+# operacionesArit
+Configuración e instalación
